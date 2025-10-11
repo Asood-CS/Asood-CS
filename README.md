@@ -13,7 +13,7 @@ I am Aditya Sood, currently a 12th grade student studying under the Internationa
 
 💡 Outside of academics, I enjoy guitar, cricket, and reading
 
-📂 [GitHub Portfolio](https://github.com/Asood-CS) • ✉️ [Email Me](adisood9@gmail.com)
+📂 [GitHub Portfolio](https://github.com/Asood-CS)
 <!--
 **Asood-CS/Asood-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
