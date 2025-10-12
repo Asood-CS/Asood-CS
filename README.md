@@ -2,14 +2,11 @@
 
 I am Aditya Sood, currently a 12th grade student studying under the International Baccalaureate (IB) in Pune, India. I've been coding since I was 11, and am primarily interested in how computation intersects with math and physics. I plan to study computer science as a major in university. 
 
-- 🔭 I’m currently working on ...
-1. A Raspberry Pi camera equipped with facial recognition
-2. A student management database for the <a href="https://5000kids.com/">5000 Kids Initiative</a>
-
 - 🌱 I’m currently interested in ...
 1. The mathematics behind **Hopfield networks** and **transformer attention**
 2. Linear algebra techniques like **Principal Component Analysis**
 3. Code-driven **physics** simulations and computational modelings of real systems
+4. **P vs NP** and optimization theory
 
 💡 Outside of academics, I enjoy guitar, cricket, and reading
 
