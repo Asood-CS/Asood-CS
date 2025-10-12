@@ -6,7 +6,7 @@ I am Aditya Sood, currently a 12th grade student studying under the Internationa
 1. The mathematics behind **Hopfield networks** and **transformer attention**
 2. Linear algebra techniques like **Principal Component Analysis**
 3. Code-driven **physics** simulations and computational modelings of real systems
-4. **P vs NP** and optimization theory
+4. Optimization theory including the **P vs NP** problem
 
 💡 Outside of academics, I enjoy guitar, cricket, and reading
 
