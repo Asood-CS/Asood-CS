@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Aditya Sood, a freshman at New York University studying Computer Science. I've been coding since I was 11, and am primarily interested in how computation intersects with math and physics.
+I am Aditya Sood, a freshman at New York University studying Computer Science and Mathematics. I've been coding since I was 11, and am primarily interested in how computation intersects with math and physics.
 
 - 🌱 I’m currently interested in ...
 1. The mathematics behind **Hopfield networks** and **transformer attention**
